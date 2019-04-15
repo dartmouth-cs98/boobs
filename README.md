@@ -1,19 +1,15 @@
-# Boobs - YOLO BBox Annotation Tool
+# BOBA T - BOunding Box Annotation Tool
 Fast and efficient BBox annotation for your images in YOLO, and now, VOC/COCO formats!
 
-## INTRO
-To see why and for what this was created, please read [Boobs - YOLO BBox Annotation Tool](https://medium.com/@drainingsun/boobs-yolo-bbox-annotation-tool-96fb765d0036)
-
-![Sample](cute.png)
+Beautifully renamed to be less gross.
 
 ## USAGE
-1. Download the zip.
-2. Extract it.
-3. Open `boobs.html` in your browser.
-4. Load images and classes and start bboxing!
+1. Clone this repo to your local machine.
+2. Open `boba.html` in your browser.
+3. Load images and classes and start bboxing!
 
 ## CONFIGURATION
-1. Open boobs.js.
+1. Open boba.js.
 2. Edit section named `parameters`.
 
 ## COMPATIBILITY
